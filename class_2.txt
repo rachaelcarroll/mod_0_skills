@@ -1,0 +1,13 @@
+Class ScienceClass
+
+Attributes
+numOfExams (integer)
+requiredMaterials (string)
+hasHomework (boolean)
+students (object)
+
+Methods
+takeExam (increases the numOfExams attribute)
+addTextbook (modifies requiredMaterials attribute)
+turnInHomework (modifies hasHomework attribute)
+failStudent (decreases student attribute)
