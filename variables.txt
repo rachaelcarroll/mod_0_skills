@@ -1,0 +1,9 @@
+var famousPerson = "Tom Hanks";
+var isActive = true;
+famousPerson = "Madonna";
+var num3 = 623;
+var num9 = 17;
+var sum = num3 + num9;
+var animals = ["frog", "penguin", "dog"];
+animals.shift();
+console.log(famousPerson.length);
