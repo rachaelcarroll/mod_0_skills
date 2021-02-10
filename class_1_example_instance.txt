@@ -1,13 +1,13 @@
 Instance TriciaConstable
 
 Attributes
-homeAddress = '123 Elmwood Drive' (string)
-yearsActive = 10 (integer)
-isOnStaff = true (boolean)
-classes = ('Algebra','Calculus')(array)
+homeAddress = '123 Elmwood Drive'
+yearsActive = 10
+isOnStaff = true
+classes = ['Algebra','Calculus'] 
 
 Methods
 relocateHome: homeAddress = '567 Parkview Street'
 startSchoolYear: yearsActive = 11
 quitJob: isOnStaff = false
-addSubject: classes = ('Algebra', 'Calculus', 'Study Hall')
+addSubject: classes = ['Algebra', 'Calculus', 'Study Hall']
