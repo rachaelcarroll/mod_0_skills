@@ -2,12 +2,12 @@ Class Mrs.Constables8thGradeClass
 
 Attributes
 numOfExams = 6
-requiredMaterials = ("Binder","Highlighters","Notebook")
+requiredMaterials = ["Binder","Highlighters","Notebook"]
 hasHomework = true
 students = {female: 12, male: 14}
 
 Methods
 takeExam: numOfExams = 7
-addTextbook: requiredMaterials = ("Binder","Highlighters","Notebook", "Textbook")
+addTextbook: requiredMaterials = ["Binder","Highlighters","Notebook", "Textbook"]
 turnInHomework: hasHomework = true
 failStudent: students = {female: 12, male: 13}
