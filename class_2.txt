@@ -2,7 +2,7 @@ Class ScienceClass
 
 Attributes
 numOfExams (integer)
-requiredMaterials (string)
+requiredMaterials (array)
 hasHomework (boolean)
 students (object)
 
